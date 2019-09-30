@@ -6,11 +6,12 @@ it into HTML/CSS/JS based on the provided theme. This site uses the
 <a href=https://github.com/panr/hugo-theme-terminal>terminal</a> theme.
 Terminal has some theme-specific features, which are detailed in the previous link.</p><h2 id=how-to-build-this-site>How to build this site:</h2><p>Firstly, make sure that you&rsquo;re using a recent version of Hugo. The version shipped in Debian stable is too old for our
 purposes. The author is using v0.55.3. You can check your version with the following command:</p><pre><code class=language-bash>hugo version
-</code></pre><p>Hugo can be installed on OS X- <a href=https://gohugo.io/getting-started/installing/#macos>See Here</a>.</p><p>Now that we have Hugo installed, start by cloning the source repository:</p><pre><code class=language-bash> git clone https://github.com/wwucyber/wwucybersite.git
+</code></pre><p>Hugo can be installed on OS X- <a href=https://gohugo.io/getting-started/installing/#macos>See Here</a>.</p><p>Now that we have Hugo installed, start by cloning the source repository:</p><pre><code class=language-bash> git clone --recursive https://github.com/wwucyber/wwucybersite.git
 </code></pre><p>Notice that there is a git submodule, called <code>public</code> locally, within the repo. This submodule is our build repository,
 which is the Github repo that holds our actual HTML/CSS for the live site. There should be no reason to ever push to
 the build repo directly- it should only be changed by running our deploy script. The only time you&rsquo;d need to push directly
-to the build repo is if you need to remove a post. Ideally, this will never take place.</p><p>Now, let&rsquo;s assume we&rsquo;ve made some changes to the site. To deploy, simply run the included script:</p><pre><code class=language-bash> ./deploy.sh &quot;Your commit message here&quot;
+to the build repo is if you need to remove a post. Ideally, this will never take place.</p><p>Make sure that your submodule is on the correct branch by running the following:</p><pre><code class=language-bash>cd public &amp;&amp; git checkout master &amp;&amp; cd ..
+</code></pre><p>Now, let&rsquo;s assume we&rsquo;ve made some changes to the site. To deploy, simply run the included script:</p><pre><code class=language-bash> ./deploy.sh &quot;Your commit message here&quot;
 </code></pre><p>The deploy script will twice prompt for your Github username and password. This is because it&rsquo;s pushing to two different
 repos: the source repo, and the build repo. Once it&rsquo;s done, your changes should be visible on the website (this website!)
 within seconds.</p><h2 id=an-introduction-to-markdown-and-hugo>An Introduction to Markdown and Hugo:</h2><p>This section will walk you through how to make a blog post for our site.</p><p>The initial creation of a Hugo site has already been handled, so there&rsquo;s no need to worry about it. If you want to learn
