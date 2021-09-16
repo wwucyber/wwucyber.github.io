@@ -1,12 +1,130 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>WWU Cybersecurity Club</title><link>/</link><description>Recent content on WWU Cybersecurity Club</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Copyright 2020 WWU Cybersecurity Club</copyright><lastBuildDate>Thu, 15 Oct 2020 21:11:57 -0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Club Ideas Poll</title><link>/posts/club-ideas-20-21/</link><pubDate>Thu, 15 Oct 2020 21:11:57 -0700</pubDate><guid>/posts/club-ideas-20-21/</guid><description>Greetings everyone,
-The cybersecurity club is looking forward to creating interesting and fun events during the school year. We need your help to decide which topics are of the utmost interest. Please fill out the following club idea poll and choose the top 3 topics to have events centered around. You can even write your own topic down as well:
-Club Idea Poll
-By popular demand, the first event series will consist of a professional development workshop.</description></item><item><title>Western Washington University Cybersecurity Club</title><link>/about/</link><pubDate>Wed, 07 Oct 2020 18:22:03 -0700</pubDate><guid>/about/</guid><description>Welcome to the Cybersecurity Club! We&amp;rsquo;re looking forward to having a great year in 2020 &amp;amp; 2021. Check out the calendar page for our future activities.
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WWU Cybersecurity Club</title>
+    <link>/</link>
+    <description>Recent content on WWU Cybersecurity Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright 2020 WWU Cybersecurity Club</copyright>
+    <lastBuildDate>Wed, 07 Oct 2020 18:22:03 -0700</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Western Washington University Cybersecurity Club</title>
+      <link>/about/</link>
+      <pubDate>Wed, 07 Oct 2020 18:22:03 -0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Welcome to the Cybersecurity Club! We&amp;rsquo;re looking forward to having a great year in 2020 &amp;amp; 2021. Check out the calendar page for our future activities.
 Our plans for this year include:
-Capture-the-Flag competitions and CCDC practice CCNA and networking study sessions Creating virtual testing environments on top of physical hardware Trips to visit security companies &amp;amp; teams Internship and job-seeking guidance, resume reviews, etc Links Our Github Our Slack (anyone with a WWU email can sign up here) WWU Cybersecurity Program Contact cscwwu@gmail.</description></item><item><title>March 3rd Seattle Visit Signup</title><link>/posts/march-3rd-seattle-visit-signup/</link><pubDate>Thu, 30 Jan 2020 08:38:01 -0800</pubDate><guid>/posts/march-3rd-seattle-visit-signup/</guid><description>Join us on March 3rd as we take a full day trip to Seattle!
+* Capture-the-Flag competitions and CCDC practice
+* CCNA and networking study sessions
+* Creating virtual testing environments on top of physical hardware
+* Trips to visit security companies &amp;amp; teams
+* Internship and job-seeking guidance, resume reviews, etc</description>
+    </item>
+    
+    <item>
+      <title>March 3rd Seattle Visit Signup</title>
+      <link>/posts/march-3rd-seattle-visit-signup/</link>
+      <pubDate>Thu, 30 Jan 2020 08:38:01 -0800</pubDate>
+      
+      <guid>/posts/march-3rd-seattle-visit-signup/</guid>
+      <description>Join us on March 3rd as we take a full day trip to Seattle!
 We will spend the morning with Microsoft in Redmond, touring their Cybercrimes Unit and the Security Operations Center. In the afternoon, we will cross Lake Washington to visit ExtraHop, a network security startup located in downtown Seattle. In between, we will eat lunch on the Eastside, generously paid for by Western&amp;rsquo;s Computer Science department.
-We will depart from campus at approximately 8am, and return at approximately 5:30pm.</description></item><item><title>Questions for Ken Arora</title><link>/posts/questions-for-ken-arora/</link><pubDate>Sun, 26 Jan 2020 18:17:55 -0800</pubDate><guid>/posts/questions-for-ken-arora/</guid><description>Ken Arora, from F5 Networks, would love to answer any questions you have about the tech industry and your career. Ken is incredibly knowledgeable about the network security industry and will be a great resource, especially if you&amp;rsquo;re interested in working at a company like F5. He may be joining us on-campus in the near future, and if so, he&amp;rsquo;ll use our questions here to decide what his topic will be.</description></item><item><title>Faithlife Visit Signup</title><link>/posts/faithlife-visit-signup/</link><pubDate>Sun, 26 Jan 2020 18:17:52 -0800</pubDate><guid>/posts/faithlife-visit-signup/</guid><description>Join us as we visit Faithlife&amp;rsquo;s IT operations staff at 3pm on Friday, February 7th! We&amp;rsquo;ll get insights into how Faithlife secures their networks, and learn how to get a job in IT!
+We will depart from campus at approximately 8am, and return at approximately 5:30pm.</description>
+    </item>
+    
+    <item>
+      <title>Questions for Ken Arora</title>
+      <link>/posts/questions-for-ken-arora/</link>
+      <pubDate>Sun, 26 Jan 2020 18:17:55 -0800</pubDate>
+      
+      <guid>/posts/questions-for-ken-arora/</guid>
+      <description>Ken Arora, from F5 Networks, would love to answer any questions you have about the tech industry and your career. Ken is incredibly knowledgeable about the network security industry and will be a great resource, especially if you&amp;rsquo;re interested in working at a company like F5. He may be joining us on-campus in the near future, and if so, he&amp;rsquo;ll use our questions here to decide what his topic will be.</description>
+    </item>
+    
+    <item>
+      <title>Faithlife Visit Signup</title>
+      <link>/posts/faithlife-visit-signup/</link>
+      <pubDate>Sun, 26 Jan 2020 18:17:52 -0800</pubDate>
+      
+      <guid>/posts/faithlife-visit-signup/</guid>
+      <description>Join us as we visit Faithlife&amp;rsquo;s IT operations staff at 3pm on Friday, February 7th! We&amp;rsquo;ll get insights into how Faithlife secures their networks, and learn how to get a job in IT!
 By signing up, you&amp;rsquo;re promising that we&amp;rsquo;ll see you on the 7th!
-Email us at cscwwu@gmail.com for questions or comments.</description></item><item><title>Winter Survey</title><link>/posts/winter-survey/</link><pubDate>Sun, 01 Dec 2019 20:46:11 -0800</pubDate><guid>/posts/winter-survey/</guid><description/></item><item><title>Tempered Networks Visit Sign-Up</title><link>/posts/tempered-networks-visit-sign-up/</link><pubDate>Mon, 14 Oct 2019 21:01:07 -0700</pubDate><guid>/posts/tempered-networks-visit-sign-up/</guid><description>Our visit to Tempered Networks in Seattle will take place the afternoon of Thursday, November 7th. We will depart for Seattle at approximately noon, spend two hours with Tempered, and eat dinner in Seattle before returning to Bellingham (don&amp;rsquo;t worry about the cost- dinner is on us!)
-We will be arranging carpools to Seattle. If you need to skip dinner and return to Bellingham immediately after our visit to Tempered, please mention this in the sign-up form and we will make it happen.</description></item><item><title>October Survey</title><link>/posts/october-survey/</link><pubDate>Thu, 10 Oct 2019 12:35:48 -0700</pubDate><guid>/posts/october-survey/</guid><description/></item><item><title>Sign Up for the Club Newsletter</title><link>/posts/sign-up-for-the-club-newsletter/</link><pubDate>Mon, 16 Sep 2019 18:59:23 -0700</pubDate><guid>/posts/sign-up-for-the-club-newsletter/</guid><description>This form is now closed after the 2019 info fair. To get on our mailing list, shoot us a message at cscwwu at gmail.com</description></item><item><title>Calendar</title><link>/calendar/</link><pubDate>Fri, 07 Jun 2019 15:20:10 -0700</pubDate><guid>/calendar/</guid><description/></item><item><title>Resources</title><link>/resources/</link><pubDate>Mon, 03 Jun 2019 20:28:48 -0700</pubDate><guid>/resources/</guid><description>Blogs &amp;amp; News Krebs on Security Cisco Talos Kayne McGladrey Arstechnica Daniel Miessler Phoronix Ycombinator HackerNews Programming and Computer Science: Tutorials and Resources Programming Codecademy Learn You a Haskell Computer Science and Operating Systems Operating Systems: Three Easy Pieces Computer Networks: A Systems Approach Linux Academy (requires a (free) account) Resource Dumps What Every CS Student Should Know Open Source Computer Science Degree Curated Programming Resources OWASP Security Cheatsheet Security Portswigger Academy (Webapp Pentesting) Cloud AWS Training Tools &amp;amp; Other Markdown Tutorial Github Git Handbook The Git Book (overkill for beginners) Vimtutor: If you&amp;rsquo;ve installed vim, simply run vimtutor in your shell CTF Resources CTF Time CBT Nuggets: How to Prepare For a CTF Competition Cybrary: CTF Introduction (useful links at the bottom) Youtube LiveOverflow: What is CTF?</description></item><item><title>How to Edit This Site</title><link>/posts/how-to-edit-this-site/</link><pubDate>Sat, 11 May 2019 20:46:05 -0700</pubDate><guid>/posts/how-to-edit-this-site/</guid><description>This site is created using the Hugo static site generator. Hugo accepts Markdown and translates it into HTML/CSS/JS based on the provided theme. This site uses the terminal theme. Terminal has some theme-specific features, which are detailed in the previous link.
-How to build this site: Firstly, make sure that you&amp;rsquo;re using a recent version of Hugo. The version shipped in Debian stable is too old for our purposes. The author is using v0.</description></item></channel></rss>
+Email us at cscwwu@gmail.com for questions or comments.
+Loading… </description>
+    </item>
+    
+    <item>
+      <title>Winter Survey</title>
+      <link>/posts/winter-survey/</link>
+      <pubDate>Sun, 01 Dec 2019 20:46:11 -0800</pubDate>
+      
+      <guid>/posts/winter-survey/</guid>
+      <description>Loading… </description>
+    </item>
+    
+    <item>
+      <title>Tempered Networks Visit Sign-Up</title>
+      <link>/posts/tempered-networks-visit-sign-up/</link>
+      <pubDate>Mon, 14 Oct 2019 21:01:07 -0700</pubDate>
+      
+      <guid>/posts/tempered-networks-visit-sign-up/</guid>
+      <description>Our visit to Tempered Networks in Seattle will take place the afternoon of Thursday, November 7th. We will depart for Seattle at approximately noon, spend two hours with Tempered, and eat dinner in Seattle before returning to Bellingham (don&amp;rsquo;t worry about the cost- dinner is on us!)
+We will be arranging carpools to Seattle. If you need to skip dinner and return to Bellingham immediately after our visit to Tempered, please mention this in the sign-up form and we will make it happen.</description>
+    </item>
+    
+    <item>
+      <title>October Survey</title>
+      <link>/posts/october-survey/</link>
+      <pubDate>Thu, 10 Oct 2019 12:35:48 -0700</pubDate>
+      
+      <guid>/posts/october-survey/</guid>
+      <description>Loading… </description>
+    </item>
+    
+    <item>
+      <title>Sign Up for the Club Newsletter</title>
+      <link>/posts/sign-up-for-the-club-newsletter/</link>
+      <pubDate>Mon, 16 Sep 2019 18:59:23 -0700</pubDate>
+      
+      <guid>/posts/sign-up-for-the-club-newsletter/</guid>
+      <description>This form is now closed after the 2019 info fair. To get on our mailing list, shoot us a message at cscwwu at gmail.com
+Loading… </description>
+    </item>
+    
+    <item>
+      <title>Calendar</title>
+      <link>/calendar/</link>
+      <pubDate>Fri, 07 Jun 2019 15:20:10 -0700</pubDate>
+      
+      <guid>/calendar/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>/resources/</link>
+      <pubDate>Mon, 03 Jun 2019 20:28:48 -0700</pubDate>
+      
+      <guid>/resources/</guid>
+      <description>Blogs &amp;amp; News  Krebs on Security Cisco Talos Kayne McGladrey Arstechnica Daniel Miessler Phoronix Ycombinator HackerNews
+  Programming and Computer Science: Tutorials and Resources Programming  Codecademy Learn You a Haskell  Computer Science and Operating Systems  Operating Systems: Three Easy Pieces Computer Networks: A Systems Approach Linux Academy (requires a (free) account)  Resource Dumps  What Every CS Student Should Know Open Source Computer Science Degree Curated Programming Resources OWASP Security Cheatsheet  Security  Portswigger Academy (Webapp Pentesting)  Cloud  AWS Training  Tools &amp;amp; Other  Markdown Tutorial Github Git Handbook The Git Book (overkill for beginners) Vimtutor: If you&amp;rsquo;ve installed vim, simply run vimtutor in your shell</description>
+    </item>
+    
+    <item>
+      <title>How to Edit This Site</title>
+      <link>/posts/how-to-edit-this-site/</link>
+      <pubDate>Sat, 11 May 2019 20:46:05 -0700</pubDate>
+      
+      <guid>/posts/how-to-edit-this-site/</guid>
+      <description>This site is created using the Hugo static site generator. Hugo accepts Markdown and translates it into HTML/CSS/JS based on the provided theme. This site uses the terminal theme. Terminal has some theme-specific features, which are detailed in the previous link.
+How to build this site: Firstly, make sure that you&amp;rsquo;re using a recent version of Hugo. The version shipped in Debian stable is too old for our purposes. The author is using v0.</description>
+    </item>
+    
+  </channel>
+</rss>
