@@ -7,10 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright 2021 WWU Cybersecurity Club</copyright>
-    <lastBuildDate>Sat, 11 May 2019 20:46:05 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Western Washington University Cybersecurity Club</title>
+      <link>/about/</link>
+      <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Welcome to the Cybersecurity Club! We&amp;rsquo;re looking forward to having a great year in 2020 &amp;amp; 2021. Check out the calendar page for our future activities.
+Our plans for this year include:
+* Capture-the-Flag competitions and CCDC practice
+* CCNA and networking study sessions
+* Creating virtual testing environments on top of physical hardware
+* Trips to visit security companies &amp;amp; teams
+* Internship and job-seeking guidance, resume reviews, etc</description>
+    </item>
     
     <item>
       <title>How to Edit This Site</title>
@@ -39,21 +54,6 @@ How to build this site: Firstly, make sure that you&amp;rsquo;re using a recent 
       <guid>/resources/</guid>
       <description>Blogs &amp;amp; News  Krebs on Security Cisco Talos Kayne McGladrey Arstechnica Daniel Miessler Phoronix Ycombinator HackerNews
   Programming and Computer Science: Tutorials and Resources Programming  Codecademy Learn You a Haskell  Computer Science and Operating Systems  Operating Systems: Three Easy Pieces Computer Networks: A Systems Approach Linux Academy (requires a (free) account)  Resource Dumps  What Every CS Student Should Know Open Source Computer Science Degree Curated Programming Resources OWASP Security Cheatsheet  Security  Portswigger Academy (Webapp Pentesting)  Cloud  AWS Training  Tools &amp;amp; Other  Markdown Tutorial Github Git Handbook The Git Book (overkill for beginners) Vimtutor: If you&amp;rsquo;ve installed vim, simply run vimtutor in your shell</description>
-    </item>
-    
-    <item>
-      <title>Western Washington University Cybersecurity Club</title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>Welcome to the Cybersecurity Club! We&amp;rsquo;re looking forward to having a great year in 2020 &amp;amp; 2021. Check out the calendar page for our future activities.
-Our plans for this year include:
-* Capture-the-Flag competitions and CCDC practice
-* CCNA and networking study sessions
-* Creating virtual testing environments on top of physical hardware
-* Trips to visit security companies &amp;amp; teams
-* Internship and job-seeking guidance, resume reviews, etc</description>
     </item>
     
   </channel>
