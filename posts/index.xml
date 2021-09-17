@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright 2021 WWU Cybersecurity Club</copyright>
-    <lastBuildDate>Sat, 11 May 2019 20:46:05 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 16 Sep 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>How to Edit This Site</title>
       <link>/posts/how-to-edit-this-site/</link>
-      <pubDate>Sat, 11 May 2019 20:46:05 -0700</pubDate>
+      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>/posts/how-to-edit-this-site/</guid>
       <description>This site is created using the Hugo static site generator. Hugo accepts Markdown and translates it into HTML/CSS/JS based on the provided theme. This site uses the terminal theme. Terminal has some theme-specific features, which are detailed in the previous link.
