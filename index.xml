@@ -83,9 +83,19 @@ Loading… </description>
     </item>
     
     <item>
+      <title>How to Edit This Site</title>
+      <link>/posts/how-to-edit-this-site/</link>
+      <pubDate>Sat, 11 May 2019 20:46:05 -0700</pubDate>
+      
+      <guid>/posts/how-to-edit-this-site/</guid>
+      <description>This site is created using the Hugo static site generator. Hugo accepts Markdown and translates it into HTML/CSS/JS based on the provided theme. This site uses the terminal theme. Terminal has some theme-specific features, which are detailed in the previous link.
+How to build this site: Firstly, make sure that you&amp;rsquo;re using a recent version of Hugo. The version shipped in Debian stable is too old for our purposes. The author is using v0.</description>
+    </item>
+    
+    <item>
       <title>Calendar</title>
       <link>/calendar/</link>
-      <pubDate>Fri, 07 Jun 2019 15:20:10 -0700</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/calendar/</guid>
       <description> </description>
@@ -94,21 +104,11 @@ Loading… </description>
     <item>
       <title>Resources</title>
       <link>/resources/</link>
-      <pubDate>Mon, 03 Jun 2019 20:28:48 -0700</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/resources/</guid>
       <description>Blogs &amp;amp; News  Krebs on Security Cisco Talos Kayne McGladrey Arstechnica Daniel Miessler Phoronix Ycombinator HackerNews
   Programming and Computer Science: Tutorials and Resources Programming  Codecademy Learn You a Haskell  Computer Science and Operating Systems  Operating Systems: Three Easy Pieces Computer Networks: A Systems Approach Linux Academy (requires a (free) account)  Resource Dumps  What Every CS Student Should Know Open Source Computer Science Degree Curated Programming Resources OWASP Security Cheatsheet  Security  Portswigger Academy (Webapp Pentesting)  Cloud  AWS Training  Tools &amp;amp; Other  Markdown Tutorial Github Git Handbook The Git Book (overkill for beginners) Vimtutor: If you&amp;rsquo;ve installed vim, simply run vimtutor in your shell</description>
-    </item>
-    
-    <item>
-      <title>How to Edit This Site</title>
-      <link>/posts/how-to-edit-this-site/</link>
-      <pubDate>Sat, 11 May 2019 20:46:05 -0700</pubDate>
-      
-      <guid>/posts/how-to-edit-this-site/</guid>
-      <description>This site is created using the Hugo static site generator. Hugo accepts Markdown and translates it into HTML/CSS/JS based on the provided theme. This site uses the terminal theme. Terminal has some theme-specific features, which are detailed in the previous link.
-How to build this site: Firstly, make sure that you&amp;rsquo;re using a recent version of Hugo. The version shipped in Debian stable is too old for our purposes. The author is using v0.</description>
     </item>
     
     <item>
