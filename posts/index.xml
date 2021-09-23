@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright 2021 WWU Cybersecurity Club</copyright>
-    <lastBuildDate>Tue, 21 Sep 2021 22:31:31 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 22 Sep 2021 19:38:37 -0700</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CyberForce 2021 Competition Starts Soon</title>
+      <link>/posts/cyberforce2021/</link>
+      <pubDate>Wed, 22 Sep 2021 19:38:37 -0700</pubDate>
+      
+      <guid>/posts/cyberforce2021/</guid>
+      <description>Cybersecurity Club is interested in students to join us for the CyberForce competition! The Department of Energy hosts an annual competition called &amp;ldquo;CyberForce&amp;rdquo;. This competition focuses on defense and securing networks from attacks as opposed to traditional competitions focused on attack. Last year students were tasked with defending a wind farm and this year we are defending a hydroelectric dam. These scenarios are modeled after real world infrastructure and give students extremely valuable experience.</description>
+    </item>
     
     <item>
       <title>WWU Cybersecurity Certificate</title>
