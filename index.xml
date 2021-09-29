@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright 2021 WWU Cybersecurity Club</copyright>
-    <lastBuildDate>Wed, 22 Sep 2021 19:38:37 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 28 Sep 2021 22:28:51 -0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Codebreaker</title>
+      <link>/posts/codebreaker/</link>
+      <pubDate>Tue, 28 Sep 2021 22:28:51 -0700</pubDate>
+      
+      <guid>/posts/codebreaker/</guid>
+      <description>Hey Everyone! This is just a reminder that the NSA&amp;rsquo;s CTF style challenge &amp;ldquo;codebreakers&amp;rdquo; is still ongoing and doesn&amp;rsquo;t end until December 31st. Make sure to check out the #codebreaker-2021 channel in our discord for hints or more info!
+Thank you!</description>
+    </item>
     
     <item>
       <title>CyberForce 2021 Competition Starts Soon</title>
