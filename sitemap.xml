@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/posts/meeting_schedule/</loc>
+    <lastmod>2021-09-29T14:04:03-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/minutes/2021-09-28/</loc>
     <lastmod>2021-09-28T23:32:54-07:00</lastmod>
   </url>
@@ -75,7 +80,7 @@
   
   <url>
     <loc>/posts/</loc>
-    <lastmod>2021-09-28T22:28:51-07:00</lastmod>
+    <lastmod>2021-09-29T14:04:03-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -86,7 +91,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2021-09-28T23:32:54-07:00</lastmod>
+    <lastmod>2021-09-29T14:04:03-07:00</lastmod>
     <priority>0</priority>
   </url>
   
