@@ -7,18 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright 2021 WWU Cybersecurity Club</copyright>
-    <lastBuildDate>Tue, 28 Sep 2021 23:08:55 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 28 Sep 2021 23:13:11 -0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Meeting Minutes</title>
-      <link>/minutes/</link>
-      <pubDate>Tue, 28 Sep 2021 23:08:55 -0700</pubDate>
+      <title>Minutes_page</title>
+      <link>/minutes_page/</link>
+      <pubDate>Tue, 28 Sep 2021 23:13:11 -0700</pubDate>
       
-      <guid>/minutes/</guid>
-      <description>Meeting Minutes will be posted here on a regular basis</description>
+      <guid>/minutes_page/</guid>
+      <description>Meeting Minutes will be posted periodically on this page.</description>
     </item>
     
     <item>
