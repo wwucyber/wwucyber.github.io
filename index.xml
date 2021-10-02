@@ -7,10 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright 2021 WWU Cybersecurity Club</copyright>
-    <lastBuildDate>Wed, 29 Sep 2021 14:04:03 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 01 Oct 2021 21:16:55 -0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2021 10 01</title>
+      <link>/minutes/2021-10-01/</link>
+      <pubDate>Fri, 01 Oct 2021 21:16:55 -0700</pubDate>
+      
+      <guid>/minutes/2021-10-01/</guid>
+      <description>Date: October 1st 2021
+4:00pm: Introduced club and talked about what we&amp;rsquo;re doing today
+4:05pm: Talked about linktree that contains links to everything and the club format
+4:10pm: Went over weekly club format and how we can have one meeting with pizza
+4:15pm: Went over events to be aware of with the cybersecurity competitions, security awareness competition, and the ACM resume book.
+4:20pm: Did officer introductions then let everyone introduce themselves for the next 15 minutes.</description>
+    </item>
     
     <item>
       <title>First Meeting Info and Schedule</title>
@@ -31,13 +45,13 @@
     </item>
     
     <item>
-      <title>Meeting Minutes</title>
+      <title>Meeting Info</title>
       <link>/minutes_page/</link>
       <pubDate>Tue, 28 Sep 2021 23:13:11 -0700</pubDate>
       
       <guid>/minutes_page/</guid>
-      <description>Meeting Minutes will be posted periodically on this page.
-2021-09-28</description>
+      <description>Meeting Info will be posted periodically on this page.
+2021-10-01</description>
     </item>
     
     <item>
