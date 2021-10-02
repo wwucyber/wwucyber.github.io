@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright 2021 WWU Cybersecurity Club</copyright>
-    <lastBuildDate>Tue, 28 Sep 2021 22:28:51 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 29 Sep 2021 14:04:03 -0700</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>First Meeting Info and Schedule</title>
+      <link>/posts/meeting_schedule/</link>
+      <pubDate>Wed, 29 Sep 2021 14:04:03 -0700</pubDate>
+      
+      <guid>/posts/meeting_schedule/</guid>
+      <description>New Meeting Info and Schedule! Based on the data from the Doodle poll that was sent out earlier this week, the Cybersecurity Club has decided that the best time to meet would be every Friday from 4:00 PM to 5:00 PM. Thank you to everyone who completed the poll, it is clear that this time best fits the most people possible. The first meeting will be this Friday, October 1st at 4:00 PM in CF 025.</description>
+    </item>
     
     <item>
       <title>Codebreaker</title>
