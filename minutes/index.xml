@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Minutes on WWU Cybersecurity Club</title>
@@ -7,12 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright 2021 WWU Cybersecurity Club</copyright>
-    <lastBuildDate>Tue, 12 Oct 2021 18:27:31 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 01 Oct 2021 21:16:55 -0700</lastBuildDate>
     
 	<atom:link href="/minutes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+<<<<<<< HEAD
       <title>2021 10 08</title>
       <link>/minutes/2021-10-12/</link>
       <pubDate>Tue, 12 Oct 2021 18:27:31 -0700</pubDate>
@@ -30,6 +31,8 @@ Slides available here
     </item>
     
     <item>
+=======
+>>>>>>> parent of 2361d62... add meeting info for previous meeting
       <title>2021 10 01</title>
       <link>/minutes/2021-10-01/</link>
       <pubDate>Fri, 01 Oct 2021 21:16:55 -0700</pubDate>
