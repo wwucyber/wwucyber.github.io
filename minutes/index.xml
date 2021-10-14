@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Minutes on WWU Cybersecurity Club</title>
@@ -7,10 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright 2021 WWU Cybersecurity Club</copyright>
-    <lastBuildDate>Fri, 01 Oct 2021 21:16:55 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 12 Oct 2021 18:27:31 -0700</lastBuildDate>
     
 	<atom:link href="/minutes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2021 10 08</title>
+      <link>/minutes/2021-10-12/</link>
+      <pubDate>Tue, 12 Oct 2021 18:27:31 -0700</pubDate>
+      
+      <guid>/minutes/2021-10-12/</guid>
+      <description>Date: October 8th 2021
+Topic: Security Best Practices
+Slides available here
+4:00pm: Did intro stuff and gave overview for todays meeting.
+4:05pm: Went over different password managers.
+4:10pm: Went over authenticators and different VPN provides (Self hosted vs Paid).
+4:15pm: Asked class what some security best practices are and wrote them on whiteboard.
+4:20pm: Did a kahoot on what we covered over the meeting so far.
+4:55pm: Meeting over.</description>
+    </item>
     
     <item>
       <title>2021 10 01</title>
