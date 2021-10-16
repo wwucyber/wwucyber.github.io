@@ -7,13 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright 2021 WWU Cybersecurity Club</copyright>
-    <lastBuildDate>Fri, 01 Oct 2021 21:16:55 -0700</lastBuildDate>
+    <lastBuildDate>Tue, 12 Oct 2021 18:27:31 -0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-<<<<<<< HEAD
+      <title>2021 10 08</title>
+      <link>/minutes/2021-10-08/</link>
+      <pubDate>Tue, 12 Oct 2021 18:27:31 -0700</pubDate>
+      
+      <guid>/minutes/2021-10-08/</guid>
+      <description>Date: October 8th 2021
+Topic: Security Best Practices
+Slides available here
+4:00pm: Did intro stuff and gave overview for todays meeting.
+4:05pm: Went over different password managers.
+4:10pm: Went over authenticators and different VPN provides (Self hosted vs Paid).
+4:15pm: Asked class what some security best practices are.
+4:20pm: Did a kahoot on what we covered over the meeting so far.
+4:55pm: Meeting over.</description>
+    </item>
+    
+    <item>
       <title>2021 10 08</title>
       <link>/minutes/2021-10-12/</link>
       <pubDate>Tue, 12 Oct 2021 18:27:31 -0700</pubDate>
@@ -31,8 +47,6 @@ Slides available here
     </item>
     
     <item>
-=======
->>>>>>> parent of 2361d62... add meeting info for previous meeting
       <title>2021 10 01</title>
       <link>/minutes/2021-10-01/</link>
       <pubDate>Fri, 01 Oct 2021 21:16:55 -0700</pubDate>
@@ -72,7 +86,7 @@ Slides available here
       
       <guid>/minutes_page/</guid>
       <description>Meeting Info will be posted periodically on this page.
-2021-10-01</description>
+2021-10-01 2021-10-12</description>
     </item>
     
     <item>
@@ -137,10 +151,10 @@ We encourage everyone interested to check it out! </description>
       <pubDate>Thu, 16 Sep 2021 19:48:17 -0700</pubDate>
       
       <guid>/leadership/</guid>
-      <description>About Us Co-leaders: Noah: Computer Science Major
-Sid: Cyber Security Major
-Webmaster/Secretary: Nathan: Cyber Security Major
-Officers: Douglas: Cyber Security + Physics Major</description>
+      <description>About Us Co-leaders: Noah, Computer Science Major
+Sid, Cyber Security Major
+Webmaster/Secretary: Nathan, Cyber Security Major
+Officers: Douglas, Cyber Security + Physics Major</description>
     </item>
     
     <item>
@@ -170,15 +184,11 @@ Officers: Douglas: Cyber Security + Physics Major</description>
       <guid>/about/</guid>
       <description>Welcome to the Cybersecurity Club! We&amp;rsquo;re looking forward to having a great year in 2021 &amp;amp; 2021. Check out the calendar page for our future activities.
 Our plans for this year include:
-<<<<<<< HEAD
- Capture-the-Flag competitions and CCDC practice CCNA and networking study sessions Creating virtual testing environments on top of physical hardware Trips to visit security companies &amp;amp; teams Internship and job-seeking guidance, resume reviews, etc  Links  Our Github Our Discord (Create a discord account here) WWU Cybersecurity Program  </description>
-=======
 * Capture-the-Flag competitions and CCDC practice
 * CCNA and networking study sessions
 * Creating virtual testing environments on top of physical hardware
 * Trips to visit security companies &amp;amp; teams
 * Internship and job-seeking guidance, resume reviews, etc</description>
->>>>>>> parent of 2361d62... add meeting info for previous meeting
     </item>
     
   </channel>
