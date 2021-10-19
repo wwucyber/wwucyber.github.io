@@ -13,13 +13,13 @@
     
     
     <item>
-      <title>Topics for the Quarter</title>
+      <title>Quarterly Topic Schedule For Meetings</title>
       <link>/posts/topics_for_quarter/</link>
       <pubDate>Sat, 16 Oct 2021 12:39:01 -0700</pubDate>
       
       <guid>/posts/topics_for_quarter/</guid>
-      <description>Here&amp;rsquo;s the quarterly schedule for what topics the club will cover each week: 10/08/21: Security Best Practices
-10/15/21: Social Engineering
+      <description>Here&amp;rsquo;s the quarterly schedule for what topics the club will cover each week: 10/08/21: Security Best Practices ✔
+10/15/21: Social Engineering ✔
 10/22/21: Mobile Systems &amp;amp; Internet of Things
 10/29/21: Web Application Security
 11/05/21: Diversity and Inclusion in Cybersecurity
@@ -65,7 +65,7 @@ Slides available here
       <pubDate>Wed, 29 Sep 2021 14:04:03 -0700</pubDate>
       
       <guid>/posts/meeting_schedule/</guid>
-      <description>New Meeting Info and Schedule! Based on the data from the Doodle poll that was sent out earlier this week, the Cybersecurity Club has decided that the best time to meet would be every Friday from 4:00 PM to 5:00 PM. Thank you to everyone who completed the poll, it is clear that this time best fits the most people possible. The first meeting will be this Friday, October 1st at 4:00 PM in CF 025.</description>
+      <description>New Meeting Info and Schedule! Based on the data from the Doodle poll that was sent out earlier this week, the Cybersecurity Club has decided that the best time to meet would be every Friday from 4:00 PM to 5:00 PM. Thank you to everyone who completed the poll, it is clear that this time best fits the most people possible. The first meeting will be this Friday, October 1st at 4:00 PM in CF 420.</description>
     </item>
     
     <item>
@@ -180,12 +180,13 @@ Officers: Douglas: Cyber Security + Physics Major</description>
       <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>Welcome to the Cybersecurity Club! We&amp;rsquo;re looking forward to having a great year in 2021 &amp;amp; 2021. Check out the calendar page for our future activities.
+      <description>Welcome to the Cybersecurity Club! We&amp;rsquo;re looking forward to having a great year in 2021 &amp;amp; 2021.
+Check out the calendar page for our future activities.
 Our plans for this year include:
-* Capture-the-Flag competitions and CCDC practice
-* Weekly meetings on a variety of topics including Metasploit, Network Analysis, Social Engineering and much more
-* Trips to visit security companies &amp;amp; teams
-* Internship and job-seeking guidance, resume reviews, etc</description>
+* Capture-the-Flag competitions and CCDC practice.
+* Weekly meetings in CF-420 on a variety of topics including Metasploit, Network Analysis, Social Engineering and much more.
+* Trips to visit security companies &amp;amp; teams.
+* Internship and job-seeking guidance, resume reviews, etc.</description>
     </item>
     
   </channel>
