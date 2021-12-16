@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>WWU Cybersecurity Club Blog</title>
-        <link>https://wwucyber.github.io/blog</link>
+        <link>https://wwucyber.com/blog</link>
         <description>WWU Cybersecurity Club Blog</description>
         <lastBuildDate>Tue, 14 Dec 2021 01:16:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Website Migration]]></title>
-            <link>https://wwucyber.github.io/blog/website_migration</link>
+            <link>https://wwucyber.com/blog/website_migration</link>
             <guid>website_migration</guid>
             <pubDate>Tue, 14 Dec 2021 01:16:14 GMT</pubDate>
             <description><![CDATA[Things might look a little different around here, we're proud to announce we're migrating websites!]]></description>
