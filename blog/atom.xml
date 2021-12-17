@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://wwucyber.com/blog</id>
+    <id>https://wwucyber.github.io/blog</id>
     <title>WWU Cybersecurity Club Blog</title>
     <updated>2021-12-14T01:16:14.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://wwucyber.com/blog"/>
+    <link rel="alternate" href="https://wwucyber.github.io/blog"/>
     <subtitle>WWU Cybersecurity Club Blog</subtitle>
-    <icon>https://wwucyber.com/img/favicon.jpg</icon>
+    <icon>https://wwucyber.github.io/img/favicon.jpg</icon>
     <entry>
         <title type="html"><![CDATA[Website Migration]]></title>
         <id>website_migration</id>
-        <link href="https://wwucyber.com/blog/website_migration"/>
+        <link href="https://wwucyber.github.io/blog/website_migration"/>
         <updated>2021-12-14T01:16:14.007Z</updated>
         <summary type="html"><![CDATA[Things might look a little different around here, we're proud to announce we're migrating websites!]]></summary>
         <content type="html"><![CDATA[<p>Things might look a little different around here, we&#x27;re proud to announce we&#x27;re migrating websites!</p><p>The TLDR is that this allows us to easily add new posts and documentation. Continue reading for the &quot;long&quot; version.</p><p>While our old website looked great, it was very cumbersome to develop and was prone to errors. So we&#x27;ve switched from Hugo to Docusaurus. The main reason for this switch was docusaurus is constantly updated and easy to use, allowing us to easily pass down the website to future leadership. Another reason is that we&#x27;re starting a project that&#x27;ll be hosted on this website directly. We&#x27;re centralizing all of our cyber defense documentation in <a href="/docs/welcome">docs</a>. Not only will it be a great resource for the competitions we take part in, but we hope it&#x27;ll also be useful to professionals and blue teams around the world.</p><p>Things might seem &quot;empty&quot; while we transfer pages from the old website to here, but we hope to have everything up and running before winter quarter starts on Jan 2nd. If you have any suggestions please let us know on discord or through email!</p><p>Thanks.</p>]]></content>
