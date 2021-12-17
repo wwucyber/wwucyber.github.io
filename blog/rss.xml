@@ -1,27 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Nathan's Website Blog</title>
-        <link>https://albinogazelle.github.io/blog</link>
-        <description>Nathan's Website Blog</description>
-        <lastBuildDate>Mon, 13 Dec 2021 22:36:16 GMT</lastBuildDate>
+        <title>WWU Cybersecurity Club Blog</title>
+        <link>https://wwucyber.github.io/blog</link>
+        <description>WWU Cybersecurity Club Blog</description>
+        <lastBuildDate>Tue, 14 Dec 2021 01:16:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Current Reading List]]></title>
-            <link>https://albinogazelle.github.io/blog/reading_list</link>
-            <guid>reading_list</guid>
-            <pubDate>Mon, 13 Dec 2021 22:36:16 GMT</pubDate>
-            <description><![CDATA[Here's a list of what i'm currently reading or books I plan on reading in the future.]]></description>
-            <content:encoded><![CDATA[<p>Here&#x27;s a list of what i&#x27;m currently reading or books I plan on reading in the future.</p><p>Make sure to keep an eye on my <a href="/blog">blog</a> for reviews for these books once I finish them.</p><h3>Security Engineering: A Guide to Building Dependable Distributed Systems by Ross Anderson</h3><p>I&#x27;m about halfway through this book and it&#x27;s already changed how I look at systems and system security. Absolutely amazing and a required read for any security professional, no matter the field.</p><h3>Project Hail Mary by Andy Weir</h3><p>Looking to branch into Sci-Fi more and this was recommended to me by a friend.</p><h3>Hyperion by Dan Simmons</h3><p>Finished reading Dune and someone told me this was fairly similar, also Sci-Fi.</p><h3>Lights Out: Pride, Delusion, And The Fall Of General Electric</h3><p>This was on Bill Gates 2021 reading list, so decided to check it out.</p><h3>Operator Handbook: Red Team + OSINT + Blue Team by Netmux</h3><p>Using this book as a basis for our blue team documentation for the WWU Cyber Defense team.</p>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Book Review - The Code Book]]></title>
-            <link>https://albinogazelle.github.io/blog/code_book</link>
-            <guid>code_book</guid>
-            <pubDate>Mon, 13 Dec 2021 22:02:26 GMT</pubDate>
-            <description><![CDATA[Author: Simon Singh]]></description>
-            <content:encoded><![CDATA[<h3>Author: Simon Singh</h3><p>A masterclass in both history and technical writing, Mr. Singh gives an eye-opening insight into the history of cryptography. Not only does he give an excellent historical perspective, but also a great technical one.</p><p>The content regarding Alan Turing life and also Quantum Cryptography were the most thought provoking for me. The idea of a cipher that in order to be broke, the very laws that dictate our understanding of the universe but also be broken is tremendous to me. The great but also tragic life of Alan Turning was the chapter that effected me the most, a genius of cryptography whose life was cut short by a barbaric government.</p><p>I highly recommend this book to the aspiring Cryptographer and Historian alike.</p>]]></content:encoded>
+            <title><![CDATA[Website Migration]]></title>
+            <link>https://wwucyber.github.io/blog/website_migration</link>
+            <guid>website_migration</guid>
+            <pubDate>Tue, 14 Dec 2021 01:16:14 GMT</pubDate>
+            <description><![CDATA[Things might look a little different around here, we're proud to announce we're migrating websites!]]></description>
+            <content:encoded><![CDATA[<p>Things might look a little different around here, we&#x27;re proud to announce we&#x27;re migrating websites!</p><p>The TLDR is that this allows us to easily add new posts and documentation. Continue reading for the &quot;long&quot; version.</p><p>While our old website looked great, it was very cumbersome to develop and was prone to errors. So we&#x27;ve switched from Hugo to Docusaurus. The main reason for this switch was docusaurus is constantly updated and easy to use, allowing us to easily pass down the website to future leadership. Another reason is that we&#x27;re starting a project that&#x27;ll be hosted on this website directly. We&#x27;re centralizing all of our cyber defense documentation in <a href="/docs/welcome">docs</a>. Not only will it be a great resource for the competitions we take part in, but we hope it&#x27;ll also be useful to professionals and blue teams around the world.</p><p>Things might seem &quot;empty&quot; while we transfer pages from the old website to here, but we hope to have everything up and running before winter quarter starts on Jan 2nd. If you have any suggestions please let us know on discord or through email!</p><p>Thanks.</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
